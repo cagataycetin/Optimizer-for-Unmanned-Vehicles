@@ -1,0 +1,12 @@
+{
+  "name": "Öğretici örnek; gerçek bir İHA ölçümü değildir",
+  "mass_kg": 5.0,
+  "wing_area_m2": 0.8,
+  "span_m": 2.5,
+  "reference_chord_m": 0.32,
+  "cruise_speed_m_s": 18.0,
+  "density_kg_m3": 1.225,
+  "dynamic_viscosity_pa_s": 0.00001789,
+  "speed_of_sound_m_s": 340.3,
+  "current_airfoil": "naca2412"
+}
